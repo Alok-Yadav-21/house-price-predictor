@@ -57,6 +57,6 @@ Python · pandas · NumPy · scikit-learn · joblib · Streamlit
 
 **Alok Yadav** · AI/ML Engineer · MSc Data Science, Middlesex University London
 
-[Portfolio](https://mathtodata.com) · [LinkedIn](https://www.linkedin.com/in/yadavalokml) · [GitHub](https://github.com/Alok-Yadav-21)
+[Portfolio](https://alok-portfolio-lyart.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yadavalokml) · [GitHub](https://github.com/Alok-Yadav-21)
 
 Licensed under the [MIT License](LICENSE).
